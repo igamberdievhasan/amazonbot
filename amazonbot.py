@@ -20,9 +20,9 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 import notify
 # Amazon credentials
-username = 'tuh39308@temple.edu'
-password = 'Bd02241997'
-csv = '846'
+username = 'email'
+password = 'password'
+csv = 'csv'
 
 
 def time_sleep(x, driver):
